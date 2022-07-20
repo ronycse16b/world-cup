@@ -344,7 +344,7 @@ text-decoration: none;
     
     }
     .banner-left-details h1{
-        font-size:3rem
+        font-size:2rem
     }
     .banner-right-side img {
         width: 100%;
@@ -540,7 +540,7 @@ text-decoration: none;
     
     .blogs {
         display: grid;
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: repeat(2, 1fr);
         gap: 30px 10px;
         justify-content: center;
         align-items:center;
